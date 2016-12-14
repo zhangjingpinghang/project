@@ -1,0 +1,39 @@
+﻿Build started 12/14/2016 11:27:07 AM.
+     1>Project "C:\Users\zj\Documents\PHInfo\PHInfo\PHInfo.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\PHInfo.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\PHInfo.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GG_Case_InfoDlg.cpp
+         GG_Case_InfoDlg.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\zj\Documents\PHInfo\Debug\PHInfo.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\PHInfo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\zj\Documents\PHInfo\Debug\PHInfo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\zj\Documents\PHInfo\Debug\PHInfo.lib" /MACHINE:X86 Debug\PHInfo.res
+         Debug\PHInfo.exe.embed.manifest.res
+         Debug\BaseDlg.obj
+         Debug\BorderStatic.obj
+         Debug\compatible4mobile.obj
+         Debug\GG_Case_InfoDlg.obj
+         Debug\GG_Collect_infoDlg.obj
+         Debug\InspectorDlg.obj
+         Debug\Label.obj
+         Debug\PHInfo.obj
+         Debug\PHInfoDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\PHInfo.exe.embed.manifest" /manifest Debug\PHInfo.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         PHInfo.vcxproj -> C:\Users\zj\Documents\PHInfo\Debug\PHInfo.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\PHInfo.unsuccessfulbuild".
+         Touching "Debug\PHInfo.lastbuildstate".
+     1>Done Building Project "C:\Users\zj\Documents\PHInfo\PHInfo\PHInfo.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.23
